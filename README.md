@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vinitmanjhi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c and c++
-- 💞️ I’m looking to collaborate on right now nothing
 - 📫 How to reach me vinitmanjhisocial@gmail.com
 - ⚡ Fun fact: Quick Learner!
 
